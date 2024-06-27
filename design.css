@@ -1,0 +1,28 @@
+button{
+    width: 100px;
+    height: 100px;
+    background-color:aquamarine;
+    font-size: large;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color:aqua;
+}
+
+button:focus {
+    outline: blue auto 5px; 
+}
+
+#winner {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#cd {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
